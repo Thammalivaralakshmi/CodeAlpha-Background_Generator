@@ -1,1 +1,2 @@
-# CodeAlpha-Background_Generator
+CODE ALPHA TASK -2
+      BACKGROUND GENERATOR
